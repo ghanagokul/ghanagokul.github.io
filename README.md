@@ -1,3 +1,3 @@
 # Data_Mining_Project
 
-Hello this is our group project on AIr Quality Index 
+Hello this is our group project on the AIr Quality Index 
