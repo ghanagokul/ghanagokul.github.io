@@ -1,3 +1,4 @@
+// scripts.js
 document.addEventListener('DOMContentLoaded', function() {
-    console.log('Document loaded and ready!');
+    console.log('Air Quality Analysis Project loaded successfully!');
 });
